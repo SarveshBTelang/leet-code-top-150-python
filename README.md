@@ -1,4 +1,4 @@
-# Leet-Code-Top-150-Problems-Python
+# leet-code-top-150-problems-python
 
 Notes for Top 150 LeetCode problems (Python)
 
